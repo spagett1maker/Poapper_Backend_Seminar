@@ -1,0 +1,20 @@
+{
+    "name": "Ganghoon Choi",
+    "job": "Student",
+    "age": 20,
+    "hobby": [
+        "Playing game",
+        "Walk",
+        "Sing a song"
+    ],
+    "course_table": [
+        {
+            "name": "Chemistry",
+            "id": "CHEM101-02"
+        },
+        {
+            "name": "Physics",
+            "id": "PHYs101-02"
+        }
+    ]
+}
