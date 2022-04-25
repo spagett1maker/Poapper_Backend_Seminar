@@ -5,4 +5,4 @@ homework _ done
 study _ done
 
 ## week2
-homework _ 
+homework _ dome
